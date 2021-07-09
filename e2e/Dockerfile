@@ -1,4 +1,4 @@
-FROM node:12.17.0-alpine
+FROM node:erbium-alpine3.11
 
 RUN npm install npm@6.4.1 -g
 
